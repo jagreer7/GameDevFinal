@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 33d316ef8aa46734cb36f35fafa5b305
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 151c784502d8d6e448dfea7313b4e5b9
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SolderMinigame.unity
+    guid: 4df47c4985e3f144aa9855ef3e7b8ba8
+  - enabled: 1
+    path: Assets/Scenes/GridLock.unity
+    guid: 27f1e1c46f22f4eb6831004384a91843
+  - enabled: 1
+    path: Assets/Scenes/NumLock.unity
+    guid: fb9c590d566d44347a61c0835d065aa3
+  - enabled: 1
+    path: Assets/Scenes/Secret.unity
+    guid: 316052b762e8a3c488612f046a7024e9
+  - enabled: 1
+    path: Assets/Scenes/Fixed.unity
+    guid: d8fb24c0a104640c4b37f5cd31e09672
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 3c30298997e67a74b874bfc0b2c270be
+  m_configObjects: {}
